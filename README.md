@@ -9,10 +9,3 @@ A simple personal portfolio website built using HTML, CSS and JavaScript.
 ## ☁️ Deployment
 
 This portfolio is deployed using **Amazon S3 Static Website Hosting**.
-
-### Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Amazon S3
